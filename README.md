@@ -10,16 +10,8 @@ Practice querying data through the MongoDB CLI.
 
 ## Instructions
 
-1. Fork and clone this repository.
-1. Change into the new directory.
-1. Fulfill the listed requirements.
-
-You are required to turn in your submission by making a pull request on the
-original repository. Write or copy/paste your answers to the assigned prompts in
+You are required to turn in your submission by making a pull request to this repository. Write or copy/paste your answers to the assigned prompts in
 [`lib/challenge.md`](lib/challenge.md).
-
-Unless otherwise specified on the calendar or by an instructor, homework is due
-the next morning by 9:00am.
 
 ## Requirements
 
